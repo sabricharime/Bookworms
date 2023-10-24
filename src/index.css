@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500;600;700;800;900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+body{
+@apply transition-all duration-300 }
+
+h1{
+  font-size: 62px
+  
+}
+h2{
+  font-size: 42px
+}
+h3{
+  font-size: 20px
+}
+h4{
+  font-size: 16px
+}
+h5{
+  font-size: 14px
+}
+
+
+.ccustom{
+  width: 80px
+}
+
